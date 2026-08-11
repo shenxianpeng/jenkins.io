@@ -1,0 +1,14 @@
+content/blog/2026/06/2026-06-08-jenkinsfilelint-pre-commit.adoc
+  h_95e33fbd4ab2d9 58
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "2c2e5f2727143326840166e61597da619c421468",
+  "prompts": {},
+  "humans": {
+    "h_95e33fbd4ab2d9": {
+      "author": "shenxianpeng <xianpeng.shen@gmail.com>"
+    }
+  }
+}
